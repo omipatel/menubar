@@ -5,7 +5,7 @@ const Blogs = () => {
 return ( 
 	
 <div>
-	 <h2>Hi blogs </h2>
+	 <h2>Hi blogs and story about product  </h2>
 	</div>
 	
 ); 
